@@ -1,0 +1,167 @@
+h4{
+  font-family: sans-serif;
+}
+nav{
+  background-color: #1e88e5;
+}
+.page-footer{
+  background-color: #1e88e5;
+}
+.btn{
+  margin-left: 230;
+}
+.parallax-container{
+  height: 300;
+}
+.a{
+  margin: 20;
+  color: #e65100;
+  margin-bottom: 200;
+  font-family: sans-serif;
+}
+.b{
+  font-family: sans-serif;
+  margin: -270 300 ;
+}
+.c{
+  margin: 270 350 200 300;
+}
+.e{
+  margin: 40 90;
+}
+.f{
+  margin: 30 100;
+}
+.g{
+  margin: 0 1000 00 100;
+}
+.i{
+  margin: 20 100;
+}
+.h{
+  width: 350;
+  margin: 20 99;
+}
+.j{
+  margin: -350 820;
+  margin-right: 20;
+}
+.k{
+  width: 600;
+  margin: 400 600 20;
+  background-color: ghostwhite;
+}
+.l{
+  margin: -40 83 10;
+}
+.card{
+  width: 350;
+}
+.n{
+  margin-left: 100;
+  margin-top: -135;
+}
+.o{
+  margin-left: 776px;
+  margin-top: -300
+}
+.p{
+  margin-left: 192;
+}
+.abc{
+  position: relative;
+}
+.da{
+  position: static;
+  margin-top: 30;
+  margin-left: 50;
+  margin-right: 50;
+  font-family: sans-serif;
+}
+.db{
+  position: static;
+  margin-top: 30;
+  margin-left: 50;
+  margin-right: 50;
+  font-family: sans-serif;
+}
+.dc{
+  position: static;
+  margin-top: 30;
+  margin-left: 50;
+  margin-right:50;
+  font-family: sans-serif;
+}
+.dd{
+  font-family: sans-serif;
+  margin-top: 30;
+  margin-left: 50;
+  margin-right: 50;
+  position: static;
+}
+.de{
+  font-family: sans-serif;
+  margin-top: 30;
+  margin-left: 50;
+  margin-right: 50;
+  position: static;
+}
+.df{
+  margin-top: 30;
+  margin-left: 50;
+  margin-right: 50;
+  position: static;
+  font-family: sans-serif;
+}
+.no{
+  margin-left: 100;
+}
+.yes{
+  position: relative;
+  margin-bottom: 360;
+}
+.collapsible{
+  position: absolute;
+  margin-left: 390;
+  width: 600;
+}
+.container1{
+  width: 500;
+  height: 400;
+  background-color: ghostwhite;
+  box-shadow: 1px 1px 7px 0px;
+  margin-top: 50;
+  margin-bottom: 50;
+  margin-left: 440;
+  position: relative;
+  background-color: whitesmoke;;
+}
+.u{
+  margin-left: 50px;
+  position: absolute;
+  font-style: sans-serif;
+  background-color: white;
+  color: black;
+}
+.w{
+  font-size: 20px;
+  font-family: sans-serif;
+  margin-left: 160px;
+  margin-top:
+}
+.v{
+  position: absolute;
+  font-style: sans-serif;
+  background-color: white;;
+  color: black;
+}
+@media screen and (max-width: 481px){
+ 
+  .collapsible{
+    margin-left: 20;
+    width: 280;
+  }
+  .yo{
+   margin-left: 0;
+  }
+}
